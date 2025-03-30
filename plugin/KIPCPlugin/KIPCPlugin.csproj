@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{FEBE111A-D442-48BF-90B3-9135B577A4F6}</ProjectGuid>
+    <ProjectGuid>{81425631-54A7-468B-A83B-F68973D8DCAF}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>KIPCPlugin</RootNamespace>
